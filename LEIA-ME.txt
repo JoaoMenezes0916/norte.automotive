@@ -1,0 +1,31 @@
+NORTE AUTOMOTIVE — SITE
+=======================
+
+Arquivos:
+- index.html: conteúdo e estrutura do site.
+- styles.css: identidade visual responsiva, efeitos e animações.
+- script.js: menu mobile, animações e formulário para WhatsApp.
+- logo-norte-automotive.jpg: logo enviada pelo cliente.
+
+ANTES DE PUBLICAR
+1. Abra script.js.
+2. O WhatsApp comercial já está configurado com o número informado: +55 92 98842-9448.
+3. Abra index.html no navegador para testar o formulário.
+
+IMAGENS
+As fotos de fundo usam URLs do Unsplash e precisam de internet para carregar.
+A fonte também é carregada do Google Fonts; se não houver internet, o site usa fontes alternativas.
+
+PUBLICAÇÃO GRATUITA (exemplo: GitHub Pages)
+1. Crie uma conta no GitHub.
+2. Crie um repositório público, por exemplo: norte-automotive.
+3. Envie os quatro arquivos mantendo os nomes e a mesma pasta.
+4. No repositório, entre em Settings > Pages.
+5. Em Build and deployment, escolha Deploy from a branch, selecione a branch main e a pasta /(root), e salve.
+6. Aguarde a publicação e abra o endereço que o GitHub Pages mostrar.
+
+OBSERVAÇÕES
+- A hospedagem estática pode ser gratuita; domínio próprio costuma ser pago.
+- O formulário abre o WhatsApp com a mensagem pronta, mas o visitante precisa tocar em enviar.
+- Confira se os preços e os itens dos pacotes refletem exatamente os serviços que você oferece antes de divulgar.
+- O site não recebe pagamentos nem confirma agendamentos automaticamente.
